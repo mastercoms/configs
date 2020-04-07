@@ -80,7 +80,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/bigcross""
+				"file"		"vgui/replay/thumbnails/bigcross"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
